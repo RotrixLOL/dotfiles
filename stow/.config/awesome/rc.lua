@@ -23,7 +23,7 @@ beautiful.init(gfs.get_configuration_dir() .. "theme/theme.lua")
 terminal = "kitty"
 editor = terminal .. " -e " .. os.getenv("EDITOR")
 vscode = "code"
-browser = "firefox"
+browser = "librewolf"
 burp_proxy = "burpsuite"
 launcher = "rofi -show drun -theme .config/rofi/launchers/type-1/style-8.rasi"
 file_manager = "nautilus"

@@ -9,7 +9,7 @@ paru -Sy --needed \
   ttf-iosevka-nerd neovim dunst notify-send picom-git \
   rofi acpi acpid acpi_call upower xdotool xclip ffmpeg \
   brightnessctl feh maim mpv mpd ncmpcpp playerctl discord \
-  cava bat ranger gpick
+  cava bat ranger gpick librewolf-bin
 
 echo "##### INSTALLING RUST #####"
 curl https://sh.rustup.rs | sh
