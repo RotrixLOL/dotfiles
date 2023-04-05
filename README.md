@@ -1,5 +1,9 @@
 ## rotrixx's dotfiles
 
+![main image](.github/assets/main.png)
+![img1](.github/assets/img1.png)
+![img2](.github/assets/img2.png)
+
 <a href="https://awesomewm.org/"><img alt="AwesomeWM Logo" height="150" align = "left" src="https://awesomewm.org/doc/api/images/AUTOGEN_wibox_logo_logo_and_name.svg"></a>
 
 <b> <a href="https://github.com/rxyhn/yoru" target="_blank">Yoru</a> (夜) based Aesthetic and Beautiful Awesome Environment </b>
