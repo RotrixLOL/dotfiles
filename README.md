@@ -3,6 +3,7 @@
 ![main image](.github/assets/main.png)
 ![img1](.github/assets/img1.png)
 ![img2](.github/assets/img2.png)
+![rofi](.github/assets/rofi.png)
 
 <a href="https://awesomewm.org/"><img alt="AwesomeWM Logo" height="150" align = "left" src="https://awesomewm.org/doc/api/images/AUTOGEN_wibox_logo_logo_and_name.svg"></a>
 
