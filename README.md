@@ -36,10 +36,10 @@ Here are some details about my setup:
 
 <!-- PREPARATION -->
 
-## <samp>Preparation</samp>
+## :toolbox: ‎ <samp>Preparation</samp>
 
 1. `git clone --depth=1 https://github.com/RotrixLOL/dotfiles .dotfiles`
-2.`cd .dotfiles`
+2. `cd .dotfiles`
 3. `chmod +x scripts/*`
 
 <br>
