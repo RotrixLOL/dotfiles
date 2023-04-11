@@ -9,7 +9,7 @@ echo "##### SETTING CONFIG #####"
 paru -S --needed stow
 stow -v -R -t $HOME stow
 
-ECHO "##### INSTALLING PACKAGES #####"
+echo "##### INSTALLING PACKAGES #####"
 ./install-packages.sh
 
 echo "##### SETTING UP SOME CONFIGS #####"
