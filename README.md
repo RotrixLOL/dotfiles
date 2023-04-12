@@ -34,15 +34,21 @@ Here are some details about my setup:
 
 <br>
 
+<!-- PREPARATION -->
+
+## :toolbox: ‎ <samp>Preparation</samp>
+
+1. `git clone --depth=1 https://github.com/RotrixLOL/dotfiles .dotfiles`
+2. `cd .dotfiles`
+3. `chmod +x scripts/*`
+
+<br>
+
 <!-- SETUP -->
 
 ## :wrench: ‎ <samp>Setup</samp>
 
 > This is step-by-step how to install yoru on your system. Just [R.T.F.M](https://en.wikipedia.org/wiki/RTFM).
-
-First, clone this repo into $HOME/.dotfiles
-
-Now cd into .dotfiles
 
 <details>
 <summary><b>1. Run `./scripts/bootstrap.sh`</b></summary>
