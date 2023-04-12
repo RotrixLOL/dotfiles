@@ -53,5 +53,5 @@ collectgarbage("setpause", 110)
 collectgarbage("setstepmul", 1000)
 
 -- Wallpaper
-local wallpaper_cmd="feh --bg-fill /home/rotrixx/wallpapers/yosemite-lowpoly.jpg"
+local wallpaper_cmd="feh --bg-fill $HOME/wallpapers/ArcDusk-dark/contents/images/2560x1440.png"
 os.execute(wallpaper_cmd)
