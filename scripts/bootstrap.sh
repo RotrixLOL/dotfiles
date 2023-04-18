@@ -10,7 +10,7 @@ paru -S --needed stow
 stow -v -R -t $HOME stow
 
 echo "##### INSTALLING PACKAGES #####"
-./install-packages.sh
+./scripts/install-packages.sh
 
 echo "##### SETTING UP SOME CONFIGS #####"
-./setup-config.sh
+./scripts/setup-config.sh
