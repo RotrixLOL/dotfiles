@@ -312,3 +312,11 @@ export STARSHP_CONFIG=$HOME/.config/starship.toml
 
 # init starship
 eval "$(starship init zsh)"
+
+# pnpm
+export PNPM_HOME="/home/rotrixx/.local/share/pnpm"
+case ":$PATH:" in
+  *":$PNPM_HOME:"*) ;;
+  *) export PATH="$PNPM_HOME:$PATH" ;;
+esac
+# pnpm end
